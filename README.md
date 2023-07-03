@@ -1,17 +1,17 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img src="https://media0.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif" width="200" height="200"/>
 <div id="badges">
 <a href="https://www.linkedin.com/in/michelle-omondi-405043181">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Joan-Wanjiru-N&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Mitch69&style=flat-square&color=blue" alt=""/>
 </div>
 
  
 
 <div align="center">
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3l2ZGhwajE3dXJnbnc3Zm1zMDFwdm5ndm9oYjJhbThob3p2eHdhaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" width="400" height="400"/>
 </div>
 
  
@@ -20,7 +20,7 @@
 ---
 Hi 👋🏽
 <p>
-I am <b>Michelle Omondi, a Data Analyst | Data Scientist </b></br>
+I'm <b>Michelle Omondi, a Data Analyst | Data Scientist </b></br>
 Going on an exhilarating journey through the untamed wilderness of datasets, insights, ML and DL </br>
 Join me on this exciting safari, where the beauty ✨ of data is uncovered, and knowledge is discovered </br>
 Get ready to embark on an adventure where data is the compass that guides us through uncharted territories </br>
